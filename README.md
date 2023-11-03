@@ -1,4 +1,5 @@
-<style>
+<head>
+         <style>
          ul {
                   list-style: none;
                   width: 100%;
@@ -16,6 +17,8 @@
                   justify-content: center;
          }
 </style>
+
+</head>
 
 # jumpers_assembly
 Demonstração de execuções dos jumpers dentro de um codigo x86 assembly compilado em nasm
