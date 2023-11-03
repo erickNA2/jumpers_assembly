@@ -14,7 +14,7 @@ primeiro iremos atualizar os pacotes com
          <li>*-----------------------------------------------------*</li>
 </ul>
 
-em seguida iremos instalar o nasm, que ira compilar o programa
+em seguida iremos instalar o <a href="https://www.nasm.us/">nasm</a>, que ira compilar o programa
 
 <ul style="list-style: none;">
          <li>*-----------------------------------------------------*</li>
